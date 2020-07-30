@@ -10,7 +10,8 @@ namespace PortScanner3
     {
         static void Main(string[] args)
         {
-            Console.Write("Hej kære børn!");
+            Console.Write("Hej mormor!");
+            Console.WriteLine("Hej Git'te-mor");
         }
     }
 }
