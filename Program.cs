@@ -10,6 +10,7 @@ namespace PortScanner3
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor(ConsoleColor.DarkRed);
             Console.Write("Hej mormor!");
             Console.WriteLine("Hej Git'te-mor");
         }
