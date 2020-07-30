@@ -10,7 +10,13 @@ namespace PortScanner3
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkRed;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Hej kære børn!");
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine("Hej MorrMorrrr");
+            
         }
     }
 }
