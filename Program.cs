@@ -14,7 +14,7 @@ namespace PortScanner3
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Hej mormor!");
             Console.BackgroundColor = ConsoleColor.DarkBlue;
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("Hej Git'te-mor");
         }
     }
